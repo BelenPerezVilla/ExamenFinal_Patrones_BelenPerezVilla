@@ -1,0 +1,15 @@
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ProyectoFinalPD\ProyectoFinalPD\bin\Debug\ProyectoFinalPD.exe.config
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ProyectoFinalPD\ProyectoFinalPD\bin\Debug\ProyectoFinalPD.exe
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ProyectoFinalPD\ProyectoFinalPD\bin\Debug\ProyectoFinalPD.pdb
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ProyectoFinalPD\ProyectoFinalPD\obj\Debug\ProyectoFinalPD.csproj.AssemblyReference.cache
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ProyectoFinalPD\ProyectoFinalPD\obj\Debug\ProyectoFinalPD.Form1.resources
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ProyectoFinalPD\ProyectoFinalPD\obj\Debug\ProyectoFinalPD.Presentacion.ChefForm.resources
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ProyectoFinalPD\ProyectoFinalPD\obj\Debug\ProyectoFinalPD.Presentacion.ClientForm.resources
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ProyectoFinalPD\ProyectoFinalPD\obj\Debug\ProyectoFinalPD.Presentacion.MainForm.resources
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ProyectoFinalPD\ProyectoFinalPD\obj\Debug\ProyectoFinalPD.Presentacion.RecetarioForm.resources
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ProyectoFinalPD\ProyectoFinalPD\obj\Debug\ProyectoFinalPD.Properties.Resources.resources
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ProyectoFinalPD\ProyectoFinalPD\obj\Debug\ProyectoFinalPD.csproj.GenerateResource.cache
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ProyectoFinalPD\ProyectoFinalPD\obj\Debug\ProyectoFinalPD.csproj.CoreCompileInputs.cache
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ProyectoFinalPD\ProyectoFinalPD\obj\Debug\ProyectoFinalPD.exe
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ProyectoFinalPD\ProyectoFinalPD\obj\Debug\ProyectoFinalPD.pdb
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ProyectoFinalPD\ProyectoFinalPD\obj\Debug\ProyectoFinalPD.exe.config
